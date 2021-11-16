@@ -1,9 +1,9 @@
 {
-  "name": "crypto-js",
-  "version": "1.0.0",
-  "description": "A crypto library",
+  "name": "crypto-alg-js",
+  "version": "0.0.1",
+  "description": "A crypto algorithm library",
   "main": "index.js",
-  "files":[
+  "files": [
     "index.js",
     "lib/"
   ],
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/youngbug/crypto-js#readme",
   "devDependencies": {
+    "chai": "^4.3.4",
     "eslint": "^8.2.0",
     "eslint-plugin-vue": "^8.0.3"
   }
