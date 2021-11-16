@@ -1,0 +1,34 @@
+{
+  "name": "crypto-js",
+  "version": "1.0.0",
+  "description": "A crypto library",
+  "main": "index.js",
+  "files":[
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngbug/crypto-js.git"
+  },
+  "keywords": [
+    "RSA",
+    "AES",
+    "3DES",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Zhao Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngbug/crypto-js/issues"
+  },
+  "homepage": "https://github.com/youngbug/crypto-js#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-vue": "^8.0.3"
+  }
+}
